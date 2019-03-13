@@ -1,9 +1,11 @@
 <div class="sidenav">
-  <a class="home" href="#">Mandi Howell</a>
-  <a class="projects" href="#">Projects</a>
+  <a class="home" [routerLink]="['/home']">Mandi Howell</a>
+  <a class="projects" [routerLink]="['/projects']">Projects</a>
   <a class="experience" href="#">Experience</a>
   <a class="skills" href="#">Skills</a>
   <a class="education" href="#">Education</a>
   <a class="contact" href="#">Contact</a>
   <a class="resume" href="#">Resume</a>
 </div>
+
+<router-outlet></router-outlet>

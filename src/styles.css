@@ -2,13 +2,12 @@
 
 @import "~bootstrap/dist/css/bootstrap.css";
 
-html {
+/*html {
     height: 100%;
 }
 
 body {
-    background-color: #353754;
-    /*
+    
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -17,5 +16,5 @@ body {
     background: -webkit-linear-gradient(to bottom,#353754,#804A62,#A1B9DD,#FC7058,#FFFA85);
     background: -moz-linear-gradient(to bottom,#353754,#804A62,#A1B9DD,#FC7058,#FFFA85);
     background: -o-linear-gradient(to bottom,#353754,#804A62,#A1B9DD,#FC7058,#FFFA85);
-    background: linear-gradient(to bottom,#353754,#804A62,#A1B9DD,#FC7058,#FFFA85);*/
-}
+    background: linear-gradient(to bottom,#353754,#804A62,#A1B9DD,#FC7058,#FFFA85);
+}*/

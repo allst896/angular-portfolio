@@ -1,0 +1,15 @@
+html {
+    height: 100%;
+}
+
+body {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat:no-repeat;
+    background: -webkit-linear-gradient(to bottom,#804A62);
+    background: -moz-linear-gradient(to bottom,#804A62);
+    background: -o-linear-gradient(to bottom,#804A62);
+    background: linear-gradient(to bottom,#804A62);
+}
